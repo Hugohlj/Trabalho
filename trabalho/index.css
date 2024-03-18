@@ -8,10 +8,20 @@ ul{
     justify-content: space-between;
     list-style-type: none;
     align-items: center;
-    padding: 16px;
+    margin-top: 16px;
+    margin-right: 20px;
+    margin-left: -10px;
     font-size: 50px;
 }
 a{
     color: gold;
     text-decoration: none;
+}
+h1{
+    color: gold;
+    text-align: center;
+}
+div p{
+    display: flex;
+    
 }
