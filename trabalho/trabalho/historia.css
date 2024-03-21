@@ -1,0 +1,19 @@
+body{
+    color: gold;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    margin-top: 16px;
+    margin-right: 20px;
+    margin-left: -10px;
+    font-size: 50px;
+}
+a{
+    color: gold;
+    text-decoration: none;
+}
